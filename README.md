@@ -1,6 +1,6 @@
 # Sign-Language-Detection-Using-LSTM
 
-A project that will help us in facilitating E-Learning education with the help of computer acknowledgment of sign based communication for both general and Visually impaired students as well. 
+A project that will help us in facilitating E-Learning education with the help of computer acknowledgment of sign based communication for both general and Hearing impaired students as well. 
 
 The goal is to Detect Real time Sign language. In a general overview, how this project is gonna work is
 We have collected a bunch of data , that is data of our hands, our body and our face, basically can be called as keypoints and saved as Numpy Arrays. 
