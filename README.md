@@ -45,6 +45,7 @@ The identified keypoints are stored in the folder called MP_Data, with each sequ
 
 ## Training the Long Short Term Memory
 To train the Long Short Term Memory the model selected was a Sequential model trained on 3 layers and 2 dense layers. Since it is catagorical data the model was compiled as:
+
 `model.compile(optimizer = 'Adam',loss='categorical_crossentropy',metrics=['categorical_accuracy'])`
 
 The model was then Trained on 2000 epochs.
