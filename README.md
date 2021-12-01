@@ -34,6 +34,7 @@ The keypoints can be color coded for the viewer to identify the different parts 
 After the mediapipe has been defined the keypoints must be collected and stored to be trained on later. 
 
 `def extract_keypoints(results)` 
+
 This takes in the extracted keypoints from the video and concatenated the values into a numpy array.
 
 
