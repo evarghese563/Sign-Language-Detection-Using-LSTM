@@ -18,6 +18,7 @@ The function
 `draw_landmarks(image, results)`
 
 Draws landmarks of the identified keypoints on the user
+
 ![Unstyled](https://github.com/evarghese563/Images/blob/main/Sign/unstyled.gif)
 
 
@@ -25,6 +26,7 @@ However wth a few extra lines of code
 `draw_styled_landmarks(image,results)`
 
 The keypoints can be color coded for the viewer to identify the different parts of the human
+
 ![Styled](https://github.com/evarghese563/Images/blob/main/Sign/styled.gif)
 
 
