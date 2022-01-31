@@ -97,4 +97,5 @@ To run on a new dataset:
 3. Run.py or RunNoMarker.py 
 
       - Test the model in real time
+      - Run RunNoMarker.py if the user would like to run the model without any of the viewing markers the user can run this file to access the application without any of the landmarks
 
