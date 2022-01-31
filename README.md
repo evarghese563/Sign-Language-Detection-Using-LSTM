@@ -65,6 +65,8 @@ These are the testing results in real time from the project after training the d
 
 ![ILY](https://github.com/evarghese563/Images/blob/main/Sign/ily.gif)
 
+### Extras
+
 #### 1.  Color Coded Probability Viewer
 
 - This is a probability bar which shows the gesture that is being identified the most in the test. The bar rises with the gesture it recognizes most. The color for each bar is as follows:
