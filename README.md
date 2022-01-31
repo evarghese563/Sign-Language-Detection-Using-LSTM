@@ -80,7 +80,7 @@ These are the testing results in real time from the project after training the d
 ### Run on Old Weights
 <!-- To run on the previous versions weights the user has to simply run 'Run.py' or ' RunNoMarker.py'. Make sure either one of the files in the same folder as MP_DATA and actions.h5
  -->
-To run on the previous versions weights the user has to simply run 'Run.py' or ' RunNoMarker.py'. Make sure either one of the files in the same folder as MP_DATA and actions.h5
+To run on the previous versions weights the user has to simply run 'Run.py' or ' RunNoMarker.py'. Make sure either one of the files in the same folder with actions.h5
 
 ### Run on New Weights
 To run on a new dataset:
