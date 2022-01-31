@@ -1,4 +1,4 @@
-# Sign-Language-Detection-Using-LSTM
+# Sign-Language-Recognition-Using-LSTM
 
 ## General
 
@@ -75,9 +75,6 @@ These are the testing results in real time from the project after training the d
   - Green/Thanks
   - Orange/I Love You
 
-#### 2. RunNoMarker.py
-
-- If the user would like to run the model without any of the viewing markers the user can run this file to access the application without any of the landmarks
 
 ## Run
 ### Run on Old Weights
