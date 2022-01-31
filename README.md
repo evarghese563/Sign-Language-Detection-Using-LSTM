@@ -64,3 +64,35 @@ These are the testing results in real time from the project after training the d
 ### I Love You
 
 ![ILY](https://github.com/evarghese563/Images/blob/main/Sign/ily.gif)
+
+#### 1.  Color Coded Probability Viewer
+
+- This is a probability bar which shows the gesture that is being identified the most in the test. The bar rises with the gesture it recognizes most. The color for each bar is as follows:
+
+  - Blue/Hello
+  - Green/Thanks
+  - Orange/I Love You
+
+#### 2. RunNoMarker.py
+
+- If the user would like to run the model without any of the viewing markers the user can run this file to access the application without any of the landmarks
+
+## Run
+### Run on Old Weights
+To run on the previous versions weights the user has to simply run 'Run.py' or ' RunNoMarker.py'. Make sure either one of the files in the same folder as MP_DATA and actions.h5
+
+### Run on New Weights
+To run on a new dataset:
+
+1. CollectData.py
+
+      - When the camera opens pose in the Sign Language poses for 30 sequences in 'Hello', 'Thanks', and 'I Love You'.
+
+2. NeuralNetwork.py
+
+      - To train the collected data on the Long Short Term Memory Architecture hit run
+
+3. Run.py or RunNoMarker.py 
+
+      - Test the model in real time
+
